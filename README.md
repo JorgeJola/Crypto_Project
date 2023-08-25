@@ -3,7 +3,9 @@
 Informe de Análisis del Mercado de Criptomonedas y Recomendaciones para Oportunidades de Inversión
 
 Fecha: 25 de Agosto de 2023
+
 Autor: Jorge Andrés Jola Hernández
+
 Puesto: Analista de Datos
 
 Resumen Ejecutivo:
