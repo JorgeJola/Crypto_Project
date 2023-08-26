@@ -64,3 +64,11 @@ Basado en los criterios anteriores, he seleccionado las siguientes criptomonedas
 
 **Noticias y Eventos Relevantes**: Durante la exposición del trabajo, se abordarán las noticias y eventos actuales asociados a cada criptomoneda, con el propósito de enriquecer tanto la visualización como el análisis obtenido.
 
+## KPI's Propuestos:
+**Volumen de Transacciones:** El volumen de transacciones es la cantidad total de la criptomoneda que se compra y vende en un período de tiempo específico. Un alto volumen indica una mayor liquidez y actividad en el mercado. Un aumento en el volumen de transacciones podría sugerir un mayor interés por parte de los inversores y traders, lo que puede ser una señal positiva.
+**Número de Unidades en Circulación:** Este KPI indica cuántas unidades de la criptomoneda están en manos de inversores, traders y usuarios en general. Puede ofrecer una comprensión de la liquidez y la adopción en el mercado. Si el número de unidades en circulación es bajo y se mantiene constante o disminuye, podría indicar una mayor escasez y posiblemente un aumento en la demanda, lo que podría impulsar el precio al alza.
+**Rango de Precios:** Analizar el rango entre el precio más alto y el precio más bajo en un período dado puede brindarte información sobre la volatilidad y las oportunidades de trading.
+
+
+
+
