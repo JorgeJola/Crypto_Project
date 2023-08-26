@@ -56,11 +56,11 @@ Basado en los criterios anteriores, he seleccionado las siguientes criptomonedas
 
 **Crecimiento Histórico**: [Ver Crecimiento Histórico](EDA_Crypto.ipynb).
 
-**Tecnología Subyacente**: [Descripción de la tecnología subyacente y sus fortalezas y debilidades].
+**Tecnología Subyacente**: Durante la exposición del trabajo, se abordarán las ventajas y desventajas de la tecnología de cada criptomoneda, con el propósito de enriquecer tanto la visualización como el análisis obtenido.
 
 **Volatilidad y Riesgo**: [Ver Volatilidad y riesgo](EDA_Crypto.ipynb).
 
 **Adopción y Participación del Mercado**: [Ver Adopción y participación del mercado](EDA_Crypto.ipynb).
 
-**Noticias y Eventos Relevantes**: [Mención de eventos recientes que podrían haber influido en los precios y la adopción].
+**Noticias y Eventos Relevantes**: Durante la exposición del trabajo, se abordarán las noticias y eventos actuales asociados a cada criptomoneda, con el propósito de enriquecer tanto la visualización como el análisis obtenido.
 
