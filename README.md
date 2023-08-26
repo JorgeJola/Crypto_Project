@@ -69,7 +69,7 @@ Basado en los criterios anteriores, he seleccionado las siguientes criptomonedas
 
 **Número de Unidades en Circulación:** Este KPI indica cuántas unidades de la criptomoneda están en manos de inversores, traders y usuarios en general. Puede ofrecer una comprensión de la liquidez y la adopción en el mercado. Si el número de unidades en circulación es bajo y se mantiene constante o disminuye, podría indicar una mayor escasez y posiblemente un aumento en la demanda, lo que podría impulsar el precio al alza.
 
-**Rango de Precios:** Analizar el rango entre el precio más alto y el precio más bajo en un período dado puede brindarte información sobre la volatilidad y las oportunidades de trading.
+**Rango de Precios:** Analizar el rango entre el precio más alto y el precio más bajo en un período dado puede brindar información sobre la volatilidad y las oportunidades de trading.
 
 
 
