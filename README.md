@@ -52,7 +52,7 @@ Litecoin: Se optó por Litecoin debido a que también figura entre las criptomon
 
 Resultados del Análisis
 
-Capitalización de Mercado: [Resumen de la capitalización de mercado de cada criptomoneda y su posición relativa en el mercado].
+Capitalización de Mercado: [df_directores.csv](https://github.com/JorgeJola/Data-Analytics).
 
 Crecimiento Histórico: [Análisis del crecimiento histórico, identificando períodos de alta volatilidad y tendencias a largo plazo].
 
