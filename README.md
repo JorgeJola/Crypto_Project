@@ -30,37 +30,37 @@ El mercado de criptomonedas ha experimentado un crecimiento exponencial en los �
 
 Basado en los criterios anteriores, he seleccionado las siguientes criptomonedas para un análisis detallado:
 
-Bitcoin: Se seleccionó debido a que es una de las criptomonedas más destacadas para realizar inversiones. BTC ocupa el primer puesto en el mercado de criptomonedas en términos de capitalización y presenta un alto nivel de descentralización. Además, ofrece la funcionalidad adicional de ser un sistema de pago utilizable.
+*Bitcoin*: Se seleccionó debido a que es una de las criptomonedas más destacadas para realizar inversiones. BTC ocupa el primer puesto en el mercado de criptomonedas en términos de capitalización y presenta un alto nivel de descentralización. Además, ofrece la funcionalidad adicional de ser un sistema de pago utilizable.
 
-Dogecoin: Doge cuenta con una sólida comunidad de usuarios activos. De hecho, una de sus mayores fortalezas radica en su comunidad, que se mantiene sumamente leal al potencial de esta criptomoneda. Eventos recientes, como el fallecimiento del icónico perro asociado con la moneda, pueden influenciar el comportamiento de la criptomoneda.
+*Dogecoin*: Doge cuenta con una sólida comunidad de usuarios activos. De hecho, una de sus mayores fortalezas radica en su comunidad, que se mantiene sumamente leal al potencial de esta criptomoneda. Eventos recientes, como el fallecimiento del icónico perro asociado con la moneda, pueden influenciar el comportamiento de la criptomoneda.
 
-Cardano: Se decidió Cardano debido a su enfoque distintivo en sólidos principios matemáticos en su mecanismo de consenso. Este enfoque puede proporcionar un nivel más elevado de seguridad y eficiencia en comparación con alternativas que carecen de una base sólida en la teoría matemática. Además, Cardano cuenta con un fundador experimentado, ya que uno de sus cofundadores desempeñó un papel fundamental en la creación de Ethereum.
+*Cardano*: Se decidió Cardano debido a su enfoque distintivo en sólidos principios matemáticos en su mecanismo de consenso. Este enfoque puede proporcionar un nivel más elevado de seguridad y eficiencia en comparación con alternativas que carecen de una base sólida en la teoría matemática. Además, Cardano cuenta con un fundador experimentado, ya que uno de sus cofundadores desempeñó un papel fundamental en la creación de Ethereum.
 
-Metacade: Invertir en Metacade podría considerarse una oportunidad destacada debido a múltiples factores que la hacen única y prometedora. Metacade ha captado la atención de los entusiastas de GameFi y los inversores cripto por su presale exitosa, respaldada por su amplia oferta de videojuegos play-to-earn (P2E) en la blockchain. La posibilidad de multiplicar su valor por 100 en 2023 ha sido destacada por expertos, sostenida por su sólida base como plataforma de gaming y su enfoque en liderar la industria de GameFi.
+*Metacade*: Invertir en Metacade podría considerarse una oportunidad destacada debido a múltiples factores que la hacen única y prometedora. Metacade ha captado la atención de los entusiastas de GameFi y los inversores cripto por su presale exitosa, respaldada por su amplia oferta de videojuegos play-to-earn (P2E) en la blockchain. La posibilidad de multiplicar su valor por 100 en 2023 ha sido destacada por expertos, sostenida por su sólida base como plataforma de gaming y su enfoque en liderar la industria de GameFi.
 
-Polygon: Polygon se presenta como una oportunidad prometedora debido a sus características únicas y su colaboración con Ethereum. Polygon, también conocido como MATIC, es una plataforma tecnológica que actúa como una mejora para la cadena de bloques Ethereum, permitiendo la escalabilidad y la conexión entre distintas redes blockchain. Lo que la hace una propuesta muy llamativa.
+*Polygon*: Polygon se presenta como una oportunidad prometedora debido a sus características únicas y su colaboración con Ethereum. Polygon, también conocido como MATIC, es una plataforma tecnológica que actúa como una mejora para la cadena de bloques Ethereum, permitiendo la escalabilidad y la conexión entre distintas redes blockchain. Lo que la hace una propuesta muy llamativa.
 
-Ethereum: Se eligio Ethereum debido a que ocupa el segundo lugar en términos de capitalización de mercado en el mundo de las criptomonedas. Sus usuarios están anticipando la implementación de la fragmentación, una técnica de segmentación de bases de datos que busca mejorar la escalabilidad del sistema, posibilitando la ejecución de un mayor número de transacciones por segundo (Actualización denominada Shapella).
+*Ethereum*: Se eligio Ethereum debido a que ocupa el segundo lugar en términos de capitalización de mercado en el mundo de las criptomonedas. Sus usuarios están anticipando la implementación de la fragmentación, una técnica de segmentación de bases de datos que busca mejorar la escalabilidad del sistema, posibilitando la ejecución de un mayor número de transacciones por segundo (Actualización denominada Shapella).
 
-Chainlink: Esta criptomoneda se destaca como una de las opciones más prometedoras para la inversión debido a su condición de plataforma de blockchain agnóstica. Además, sobresale por su capacidad de escalar eficazmente y por proporcionar transacciones a bajos costos.
+*Chainlink*: Esta criptomoneda se destaca como una de las opciones más prometedoras para la inversión debido a su condición de plataforma de blockchain agnóstica. Además, sobresale por su capacidad de escalar eficazmente y por proporcionar transacciones a bajos costos.
 
-Solana: Solana cuenta con una red especialmente diseñada para gestionar un alto volumen de transacciones por segundo, lo que la hace excepcionalmente adecuada para aplicaciones que requieren un rendimiento rápido y eficiente. 
+*Solana*: Solana cuenta con una red especialmente diseñada para gestionar un alto volumen de transacciones por segundo, lo que la hace excepcionalmente adecuada para aplicaciones que requieren un rendimiento rápido y eficiente. 
 
-XRP: XRP presenta atractivos fundamentos que pueden captar el interés de los inversores. Con su fundación establecida por Chris Larsen y Jed McCaleb en 2012, XRP ofrece una cadena de bloques descentralizada que resulta especialmente relevante para entidades financieras y bancos, mejorando transacciones internacionales.
+*XRP*: XRP presenta atractivos fundamentos que pueden captar el interés de los inversores. Con su fundación establecida por Chris Larsen y Jed McCaleb en 2012, XRP ofrece una cadena de bloques descentralizada que resulta especialmente relevante para entidades financieras y bancos, mejorando transacciones internacionales.
 
-Litecoin: Se optó por Litecoin debido a que también figura entre las criptomonedas de mayor renombre. Además, destaca por su capacidad para agilizar transacciones instantáneas a nivel global con costos prácticamente nulos, lo que le otorga una posición destacada en el mercado.
+*Litecoin*: Se optó por Litecoin debido a que también figura entre las criptomonedas de mayor renombre. Además, destaca por su capacidad para agilizar transacciones instantáneas a nivel global con costos prácticamente nulos, lo que le otorga una posición destacada en el mercado.
 
-Resultados del Análisis
+## Resultados del Análisis
 
-Capitalización de Mercado: [df_directores.csv](https://github.com/JorgeJola/Data-Analytics).
+**Capitalización de Mercado**: [Ver capitalización del mercado](EDA_Crypto.ipynb).
 
-Crecimiento Histórico: [Análisis del crecimiento histórico, identificando períodos de alta volatilidad y tendencias a largo plazo].
+**Crecimiento Histórico**: [Ver Crecimiento Histórico](EDA_Crypto.ipynb).
 
-Tecnología Subyacente: [Descripción de la tecnología subyacente y sus fortalezas y debilidades].
+**Tecnología Subyacente**: [Descripción de la tecnología subyacente y sus fortalezas y debilidades].
 
-Volatilidad y Riesgo: [Evaluación de la volatilidad histórica y sugerencias para gestionar el riesgo].
+**Volatilidad y Riesgo**: [Ver Volatilidad y riesgo](EDA_Crypto.ipynb).
 
-Adopción y Participación del Mercado: [Análisis de la adopción y la participación activa en la comunidad].
+**Adopción y Participación del Mercado**: [Ver Adopción y participación del mercado](EDA_Crypto.ipynb).
 
-Noticias y Eventos Relevantes: [Mención de eventos recientes que podrían haber influido en los precios y la adopción].
+**Noticias y Eventos Relevantes**: [Mención de eventos recientes que podrían haber influido en los precios y la adopción].
 
